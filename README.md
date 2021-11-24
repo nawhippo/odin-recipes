@@ -1,0 +1,1 @@
+"This project I'm working on is called Odin Recipes, I just started it and don't really know what it entails, I spent a lot of time troubleshooting how to set up this with github so I'm pretty burnt out already, but it was a unique learning opportunity. 
